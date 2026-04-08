@@ -1,3 +1,7 @@
+_note that this is a fork for creating patch submissions._
+_you probably want the original:_
+[https://github.com/dot-asterisk-nl/obsidian-lilypond]
+
 # Obsidian Lilypond Plugin
 
 By Stardust ✨. I have been given full authorization to maintain this project and do not own complete rights. Full rights belong to them.
